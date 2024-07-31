@@ -6,15 +6,16 @@ The Software Composition Analysis (SCA) tool is designed to help developers and 
 
 
 ## Key Features
-    - Dependency Scanning: Automatically detects open-source components, libraries, and their versions 
+   - Dependency Scanning: Automatically detects open-source components, libraries, and their versions 
     used in the project.
-    - Vulnerability Detection: Identifies known vulnerabilities (CVEs) in the project's dependencies 
+   - Vulnerability Detection: Identifies known vulnerabilities (CVEs) in the project's dependencies 
     by cross-referencing with public databases like the NVD (National Vulnerability Database).
-    - License Compliance: Analyzes the licenses of third-party components to ensure compliance 
+   - License Compliance: Analyzes the licenses of third-party components to ensure compliance 
     with your organization's policies.
-    - Detailed Reports: Generates comprehensive reports on identified vulnerabilities, licenses, 
+   - Detailed Reports: Generates comprehensive reports on identified vulnerabilities, licenses, 
     and remediation steps.
-    - Continuous Monitoring: Supports ongoing monitoring of dependencies for newly disclosed vulnerabilities.
+   - Continuous Monitoring: Supports ongoing monitoring of dependencies for newly disclosed vulnerabilities.
+
 
 
 
